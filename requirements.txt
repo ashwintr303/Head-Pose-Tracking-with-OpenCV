@@ -1,0 +1,24 @@
+# packages in environment at /Users/ashwin/opt/anaconda3/envs/dl:
+#
+# Name                    Version                   Build  Channel
+dlib                      19.21.0          py37hd4c0770_0    conda-forge
+ffmpeg                    4.0                  h01ea3c9_0    anaconda
+glib                      2.56.2               hd9629dc_0    anaconda
+imutils                   0.5.3            py37hf985489_3    conda-forge
+kiwisolver                1.2.0            py37h04f5b5a_0    anaconda
+liblapack                 3.8.0                    14_mkl    conda-forge
+libopencv                 3.4.2                h7c891bd_1    anaconda
+matplotlib                3.2.2                         0    anaconda
+matplotlib-base           3.2.2            py37h5670ca0_0    anaconda
+numpy                     1.18.5           py37h1da2735_0    anaconda
+numpy-base                1.18.5           py37h3304bdc_0    anaconda
+opencv                    3.4.2            py37h6fd60c2_1    anaconda
+pip                       20.1.1                   py37_1  
+pixman                    0.40.0               haf1e3a3_0    anaconda
+protobuf                  3.12.3           py37hb1e8313_0    anaconda
+py-opencv                 3.4.2            py37h7c891bd_1    anaconda
+pyparsing                 2.4.7                      py_0    anaconda
+python                    3.7.7                hf48f09d_4  
+python-dateutil           2.8.1                      py_0    anaconda
+python_abi                3.7                     1_cp37m    conda-forge
+

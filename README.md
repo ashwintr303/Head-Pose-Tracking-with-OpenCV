@@ -39,11 +39,11 @@ python video_detect_pose.py
 3. In case of multiple faces, head pose is detected only for the primary face (face closest to the center of the screen).
 
 ### Example Outputs
-| ![single.png](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)|
+| ![single.png](https://github.com/ashwintr303/Head-Pose-Tracking-with-OpenCV/blob/main/images/pose_vector_output1.png)|
 |:--:| 
-| *Space* |
-| ![multiple.png](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)|
-| *Space* |
+| *Head pose detection with a single faces* |
+| ![multiple.png](https://github.com/ashwintr303/Head-Pose-Tracking-with-OpenCV/blob/main/images/pose_vector_output2.png)|
+| *Head pose detection with multiple faces* |
 
 #### References:
 1. [http://dlib.net](http://dlib.net)
