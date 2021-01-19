@@ -35,15 +35,14 @@ python video_detect_pose.py
 
 ### Note:
 1. Press 'q' to quit the webcam video.
-2. The pretrained model used for face landmark detection can be downloaded from [here](https://github.com/italojs/facial-landmarks-recognition/blob/master/shape_predictor_68_face_landmarks.dat)
+2. The pretrained model used for face landmark detection can be downloaded from [here](https://github.com/italojs/facial-landmarks-recognition/blob/master/shape_predictor_68_face_landmarks.dat).
 3. In case of multiple faces, head pose is detected only for the primary face (face closest to the center of the screen).
 
 ### Example Outputs
-| ![single.png](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)| 
+| ![single.png](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)|
 |:--:| 
 | *Space* |
-| ![multiple.png](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)| 
-|:--:| 
+| ![multiple.png](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)|
 | *Space* |
 
 #### References:
