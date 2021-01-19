@@ -41,7 +41,7 @@ python video_detect_pose.py
 ### Example Outputs
 | ![single.png](https://github.com/ashwintr303/Head-Pose-Tracking-with-OpenCV/blob/main/images/pose_vector_output1.png)|
 |:--:| 
-| *Head pose detection with a single faces* |
+| *Head pose detection with a single face* |
 | ![multiple.png](https://github.com/ashwintr303/Head-Pose-Tracking-with-OpenCV/blob/main/images/pose_vector_output2.png)|
 | *Head pose detection with multiple faces* |
 
